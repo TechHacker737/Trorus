@@ -1,11 +1,11 @@
 # Trorus 🦕🦕
 
-Tspam is a simple and light tool for spammin unlimited messages in whatsapp.
+Trorus is a simple and light tool for creat virus for windows machine.
 
 ![image](https://wdevmail.000webhostapp.com/Picsart_23-07-08_15-08-10-500.jpg)
 
-# What is Tspam?
-<p>They may or may not be in your contacts. These people might send you messages because they want to spread misinformation or to trick you into giving them money. What unwanted messages look like. There are clues that might indicate you've received a suspicious message, or that the sender can't be trusted.</p>
+# What is Trorus?
+<p>A computer virus 🦠 is like a sneaky intruder that multiplies itself and spreads through files and systems. It masquerades as harmless software but can wreak havoc by damaging data 📁, causing crashes 🖥️, and even stealing personal information 🔐. These digital villains often hitch a ride with infected files or downloads, putting your digital realm at risk. To guard against their mischief, keep your armor strong with antivirus shields 🛡️ and practice savvy online habits. Stay vigilant, and keep those viruses at bay! 🌐🚫</p>
 
 ## This Tool Tested On :
 <ul>
@@ -17,20 +17,20 @@ Tspam is a simple and light tool for spammin unlimited messages in whatsapp.
 </ul>
 
 ## Installing and requirements
-<p>This tool require Python. First run following command on your terminal</p>
+<p>This tool require git. First run following command on your terminal</p>
 
 ```
-$ pkg install python
-$ pkg install git
-$ python3 -m pip install requests
+$ apt install git
+
 ```
 
 ## Installing (Kali Linux/Termux):
 
 ```
-$ git clone https://github.com/TechHacker737/Tspam
-$ cd Tspam
-$ python3 spam.py
+$ git clone https://github.com/TechHacker737/Trorus.git
+$ cd Trorus
+$ chmod +x *
+$ ./trorus.bash
 ```
 
 ### Video Demo
