@@ -1,7 +1,7 @@
 #!/bin/bash
 #-------------------------Fungsi Banner-----------------------
-def logo():
-	os.system('clear')
+while true; do
+    	os.system('clear')
 	auth=m+'  Creat By : '+k+'Tech Hacker | Subscribe: youtube.com/techhacker7'
 	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
@@ -16,8 +16,6 @@ def logo():
 %s                                        %s╲╲%s
 %s''' % (k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,auth)
 # -----------------------------------------------------------
-while true; do
-    clear
     echo "Menu:"
     echo "1. Virus"
     echo "2. Update"
