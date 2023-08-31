@@ -1,7 +1,7 @@
 #!/bin/bash
 #-------------------------Fungsi Banner-----------------------
 while true; do
-    	os.system('clear')
+    	clear
 	auth=m+'  Creat By : '+k+'Tech Hacker | Subscribe: youtube.com/techhacker7'
 	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
