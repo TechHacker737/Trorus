@@ -14,7 +14,6 @@ while true; do
 %s  \           /    \           /        %s╲╲%s ╚═╗╠═╝╠═╣║║║
 %s                                        %s╲╲%s ╚═╝╩  ╩ ╩╩ ╩
 %s                                        %s╲╲%s
-%s''' % (k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,auth)
 # -----------------------------------------------------------
     echo "Menu:"
     echo "1. Virus"
