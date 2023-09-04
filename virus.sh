@@ -32,7 +32,7 @@ display_art
     read -p "Select an option: " choice
 
 link0="https://www.youtube.com/techhacker7"
-link2="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
+link1="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
 
     case $choice in
         1)
