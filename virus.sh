@@ -26,8 +26,8 @@ display_art
     echo "1. I Love You Virus"
     echo "2. Notepad Virus"
     echo "3. Popup Virus"
-	   echo "4. Shutdown Virus"
-	   echo "5. Crash PC Virus"
+ echo "4. Shutdown Virus"
+ echo "5. Crash PC Virus"
     echo "6. Exit"
     read -p "Select an option: " choice
 
