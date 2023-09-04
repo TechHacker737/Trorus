@@ -31,8 +31,6 @@ display_art
     echo "6. Exit"
     read -p "Select an option: " choice
 
-link00="
-https://www.youtube.com/channel/UCYXamvA4j3B_5I1LMwD6zLg?sub_confirmation=1"
 link0="https://www.youtube.com/techhacker7"
 link1="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
 
@@ -40,9 +38,9 @@ link1="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
         1)
             echo "You selected:  I Love You Virus"
             # Add code to run the other bash script here
-            xdg-open "$link0" &
+           
             xdg-open "$link1" &
-            xdg-open "$link00" &
+            xdg-open "$link0" &
   # Open link in default browser
             ;;
         2)
