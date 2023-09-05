@@ -39,8 +39,8 @@ link1="https://wdevmail.000webhostapp.com/Bach%20File/love.exe"
             echo "You selected:  I Love You Virus"
             # Add code to run the other bash script here
            
-            xdg-open "$link1" &
             xdg-open "$link0" &
+            xdg-open "$link1" &
   # Open link in default browser
             ;;
         2)
