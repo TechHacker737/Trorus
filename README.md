@@ -34,7 +34,7 @@ $ ./trorus.bash
 ```
 
 ### Video Demo
-[![T-Find Demo](https://wdevmail.000webhostapp.com/Picsart_23-08-31_18-17-24-101.jpg)](https://youtu.be/SGfBpbg6Ots)
+[![T-Find Demo](https://wdevmail.000webhostapp.com/Picsart_23-08-31_18-17-24-101.jpg)](https://youtu.be/1Bkytx7K5c4)
 
 ### For More Video subscribe <a href="http://youtube.com/techhacker7">Tech Hacker YouTube Channel</a>
 
